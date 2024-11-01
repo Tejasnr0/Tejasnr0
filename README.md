@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  backend development
 - 📫 How to reach me nrtejas00@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy playing video games and traveling a lot with your friends!
+- ⚡ Fun fact: I enjoy playing video games and traveling a lot with friends!
 
 <!---
 Tejasnr0/Tejasnr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
